@@ -1,0 +1,25 @@
+.mainContainer{
+    min-height: 500px;
+    width: 100%;
+    border: solid;
+    border-color: black;
+    display: flex;
+    flex-direction:column;
+}
+
+.dataContainer{
+    height:100px;
+    min-width: 230px;
+    border: solid;
+    border-color: black;
+    background-color: crimson;
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+.btn{
+    position:absolute;
+    left:50%;
+}
