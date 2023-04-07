@@ -12,7 +12,6 @@ const foodData = (req, res) => {
     })
     food.save();
     res.redirect("/food");
-   
 }
 
 module.exports = foodData;
