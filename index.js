@@ -13,6 +13,9 @@ const path = require('path');
 
 // const staicPath = path.join(__dirname, '/public');
 
+
+
+
 app.use(express.static('public'));
 
 app.set('view engine', 'ejs');

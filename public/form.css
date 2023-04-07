@@ -70,6 +70,7 @@
     font-size: large;
     font-weight: 500;
     border-radius: 5px;
+    border: greenyellow;
 }
 body{
     background-color: black;
